@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Sajiid Ahmad</h1>
+<h1 align="center">Hi 👋, I'm MD SAJID AHMAD</h1>
 <h3 align="center">Full-Stack Developer | Physics Undergrad | Aspiring ML & Quant Engineer</h3>
 
 <div align="center">
