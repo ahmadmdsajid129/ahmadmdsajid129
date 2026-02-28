@@ -13,7 +13,7 @@ I'm a Full-Stack Developer with a deep-rooted passion for scalable architecture,
 
 - 🔭 **Currently working on:** **HimaVogue** - Designed Beyond Trends (A full-stack cultural e-commerce platform) & **Basho** (An Artisan & Workshop Management System).
 - 🌱 **Currently learning:** Probability, Statistics, Calculus, Machine Learning, and Quantitative Finance.
-- 👯 **Looking to collaborate on:** Innovative fintech startup ideas and complex web applications (especially when it involves teaming up with my frontend-developer wife!).
+- 👯 **Looking to collaborate on:** Innovative fintech startup ideas and complex web applications.
 - 🎯 **Current Goals:** Rigorously preparing for Quantitative Finance and ML engineering roles, targeting top-tier placements in India or abroad.
 - ⚡ **Fun fact:** When I'm away from the keyboard, you'll probably find me at the gym hitting heavy deadlifts and bench presses, working on that bulky physique!
 
