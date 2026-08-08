@@ -19,28 +19,7 @@ I'm a Full-Stack Developer with a deep-rooted passion for scalable architecture,
 
 ---
 
-### 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛍️ HimaVogue</h3>
-      <p align="center"><b>Designed Beyond Trends</b></p>
-      <p>A comprehensive full-stack e-commerce platform dedicated to authentic cultural attire. Features dynamic product variants, a custom reviews and moderation engine, advanced filtering, and a seamless checkout experience.</p>
-      <p align="center">
-        <a href="https://github.com/ahmadmdsajid129/next.js_HimaVogue-"><b>View Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Basho</h3>
-      <p align="center"><b>Artisan & Workshop Management</b></p>
-      <p>A dedicated dashboard and management system designed to streamline operations for artisans. It simplifies inventory management, custom order tracking, and daily creative workflows.</p>
-      <p align="center">
-        <a href="https://github.com/moizDhila52/basho-by-shivangi"><b>View Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
