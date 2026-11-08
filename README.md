@@ -47,7 +47,7 @@ class MDSajidAhmad:
 <sub>This image is regenerated every day by a GitHub Action running pure-Python Monte Carlo (antithetic variates) against the closed-form Black-Scholes price. If you are reading this tomorrow, the paths are different. The pricing error is live.</sub>
 
 <div align="center">
-  <img src="assets/gbm.svg" width="100%" alt="Daily simulated GBM paths with Monte Carlo vs Black-Scholes error" />
+  <img src="gbm.svg" width="100%" alt="Daily simulated GBM paths with Monte Carlo vs Black-Scholes error" />
 </div>
 
 ---
