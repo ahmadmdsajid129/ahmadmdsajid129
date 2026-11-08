@@ -263,10 +263,7 @@ so the question set has to grow with the crowd, or "your perfect twin" stops mea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadmdsajid129&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=14123A&title_color=3DDBB0&icon_color=6C4CF1&text_color=EEEAFE&border_color=6C4CF1" width="49%" alt="stats" />
-<img src="https://streak-stats.demolab.com/?user=ahmadmdsajid129&background=14123A&ring=3DDBB0&fire=FF6B5E&currStreakLabel=3DDBB0&currStreakNum=EEEAFE&sideLabels=EEEAFE&sideNums=EEEAFE&dates=9A97C0&stroke=6C4CF1&border=6C4CF1" width="49%" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmdsajid129&bg_color=14123A&color=3DDBB0&line=6C4CF1&point=FF6B5E&area=true&area_color=6C4CF1&hide_border=true&title_color=3DDBB0" width="98%" alt="activity graph" />
+<img src="https://streak-stats.demolab.com/?user=ahmadmdsajid129&background=14123A&ring=3DDBB0&fire=FF6B5E&currStreakLabel=3DDBB0&currStreakNum=EEEAFE&sideLabels=EEEAFE&sideNums=EEEAFE&dates=9A97C0&stroke=6C4CF1&border=6C4CF1" width="540" alt="streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadmdsajid129/ahmadmdsajid129/output/github-snake-dark.svg" />
@@ -274,9 +271,17 @@ so the question set has to grow with the crowd, or "your perfect twin" stops mea
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ahmadmdsajid129/ahmadmdsajid129/output/github-snake.svg" width="98%" />
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmadmdsajid129&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmdsajid129&layout=compact&hide_border=false&bg_color=14123A&title_color=3DDBB0&text_color=EEEAFE&border_color=6C4CF1" width="49%" alt="languages" />
+<img src="https://img.shields.io/github/commit-activity/t/ahmadmdsajid129/real-time-payment-fraud-detection?label=fraud%20engine%20commits&color=3DDBB0&labelColor=14123A&style=for-the-badge" alt="fraud%20engine%20commits" />
+<img src="https://img.shields.io/github/commit-activity/t/ahmadmdsajid129/lob-alpha-simulator?label=LOB%20sim%20commits&color=FF6B5E&labelColor=14123A&style=for-the-badge" alt="LOB%20sim%20commits" />
+<img src="https://img.shields.io/github/commit-activity/t/ahmadmdsajid129/exotic-options-client?label=options%20client%20commits&color=6C4CF1&labelColor=14123A&style=for-the-badge" alt="options%20client%20commits" />
+
+<img src="https://img.shields.io/github/languages/top/ahmadmdsajid129/real-time-payment-fraud-detection?label=fraud%20engine&color=6C4CF1&labelColor=14123A&style=for-the-badge" alt="fraud%20engine" />
+<img src="https://img.shields.io/github/languages/top/ahmadmdsajid129/lob-alpha-simulator?label=LOB%20sim&color=6C4CF1&labelColor=14123A&style=for-the-badge" alt="LOB%20sim" />
+<img src="https://img.shields.io/github/languages/top/ahmadmdsajid129/exotic-options-client?label=options%20client&color=6C4CF1&labelColor=14123A&style=for-the-badge" alt="options%20client" />
+
+<img src="https://img.shields.io/github/followers/ahmadmdsajid129?style=for-the-badge&color=3DDBB0&labelColor=14123A" alt="followers" />
 
 </div>
 
