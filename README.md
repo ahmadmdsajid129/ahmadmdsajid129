@@ -1,22 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=230&section=header&text=MD%20SAJID%20AHMAD&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physics%20%C3%97%20Machine%20Learning%20%C3%97%20Markets&descSize=20&descAlignY=60" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=230&section=header&text=MD%20SAJID%20AHMAD&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physics%20%C3%97%20Machine%20Learning%20%C3%97%20Markets&descSize=20&descAlignY=60" width="100%" alt="MD Sajid Ahmad: Physics x Machine Learning x Markets" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=3DDBB0&center=true&vCenter=true&width=760&lines=I+score+transactions+in+under+100+ms.;I+simulate+order+books+and+try+to+break+my+own+alpha.;I+price+exotic+options+with+Monte+Carlo.;I+ship+full-stack+marketplaces+for+real+clients.;Looking+for%3A+AI%2FML+internship+%7C+Quant+Research." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=3DDBB0&center=true&vCenter=true&width=760&lines=I+score+transactions+in+under+100+ms.;I+simulate+order+books+and+try+to+break+my+own+alpha.;I+price+exotic+options+with+Monte+Carlo.;I+ship+full-stack+marketplaces+for+real+clients.;Looking+for%3A+AI%2FML+internship+%7C+Quant+Research." alt="typing animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadmdsajid129&label=PROFILE+VIEWS&color=6C4CF1&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/badge/SVNIT-Integrated%20M.Sc.%20Physics-14123A?style=for-the-badge" alt="svnit" />
-<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Intern%20%7C%20Quant%20Research-3DDBB0?style=for-the-badge&labelColor=14123A" alt="open" />
+<img src="status.svg" width="420" alt="Open to work: AI/ML internship, quant research" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ahmadmdsajid129&label=PROFILE+VIEWS&color=6C4CF1&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/SVNIT-Integrated%20M.Sc.%20Physics-14123A?style=for-the-badge" alt="SVNIT" />
 
 </div>
 
----
+<img src="divider.svg" width="100%" alt="" />
 
-## `$ python sajid.py --explain`
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&color=3DDBB0&center=false&vCenter=true&repeat=false&width=820&height=48&lines=About+me" alt="About me" />
 
 ```python
 class MDSajidAhmad:
@@ -30,7 +33,7 @@ class MDSajidAhmad:
         return {
             "ml_in_production_shape": "fraud engine: Kafka, Redis, XGBoost, TreeSHAP, React",
             "quant_models":           "LOB simulator + Monte Carlo exotic options pricer",
-            "client_work":            "full-stack marketplace, 11 months, real users' money flows",
+            "client_work":            "full-stack marketplace, 12 months, real money flows",
         }
 
     def honesty_policy(self):
@@ -40,97 +43,37 @@ class MDSajidAhmad:
     seeking = ("AI/ML internship", "Quantitative research role")
 ```
 
----
+<img src="divider.svg" width="100%" alt="" />
 
-## 🎲 Today's market, simulated by my own engine
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&color=3DDBB0&center=false&vCenter=true&repeat=false&width=820&height=48&lines=Today%27s+market%2C+simulated+by+my+own+engine" alt="Today's market, simulated by my own engine" />
 
-<sub>This image is regenerated every day by a GitHub Action running pure-Python Monte Carlo (antithetic variates) against the closed-form Black-Scholes price. If you are reading this tomorrow, the paths are different. The pricing error is live.</sub>
+<sub>Regenerated every day by a GitHub Action: pure-Python Monte Carlo (antithetic variates) against the closed-form Black-Scholes price. Come back tomorrow and the paths are different. The pricing error is live.</sub>
 
 <div align="center">
   <img src="gbm.svg" width="100%" alt="Daily simulated GBM paths with Monte Carlo vs Black-Scholes error" />
 </div>
 
----
+<img src="divider.svg" width="100%" alt="" />
 
-## 🧪 Flagship projects
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&color=3DDBB0&center=false&vCenter=true&repeat=false&width=820&height=48&lines=Flagship+projects" alt="Flagship projects" />
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🛡️ Real-Time Payment Fraud Engine
-`Python` `FastAPI` `XGBoost` `Kafka` `Redis` `PostgreSQL` `TreeSHAP` `React 19`
-
-A streaming risk engine that turns raw card transactions into **APPROVE / REVIEW / BLOCK** decisions, with an explanation for every call.
-
-| | |
-|---|---|
-| Champion XGBoost PR-AUC | **0.9825** |
-| Isotonic calibration ECE | **0.0014** |
-| End-to-end p95 latency | **92 ms** (250 live requests) |
-| Automated tests | **61 / 61** |
-| Commits | **114** |
-
-**[→ Repository](https://github.com/ahmadmdsajid129/real-time-payment-fraud-detection)**
-
-</td>
-<td width="50%" valign="top">
-
-### 📉 LOB Simulator & Market-Making Engine
-`Python` `Pandas` `NumPy` `XGBoost`
-
-An event-driven limit order book, microstructure features, an XGBoost alpha model, and a backtest that **stress-tests its own edge** with adverse selection.
-
-| | |
-|---|---|
-| Order handling | O(1) `deque` queues |
-| Features | OBI, micro-price, spread |
-| Validation | strict chronological split |
-| Out-of-sample accuracy | ~**67%** (simulated feed) |
-| Key finding | edge dies when crossing the spread |
-
-**[→ Repository](https://github.com/ahmadmdsajid129/lob-alpha-simulator)**
-
-</td>
+<td width="50%"><a href="https://github.com/ahmadmdsajid129/real-time-payment-fraud-detection"><img src="card-fraud.svg" width="100%" alt="Real-Time Payment Fraud Engine" /></a></td>
+<td width="50%"><a href="https://github.com/ahmadmdsajid129/lob-alpha-simulator"><img src="card-lob.svg" width="100%" alt="LOB Simulator and Market Maker" /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🧮 Exotic Options Pricing Engine
-`Python` `FastAPI` `NumPy` `Next.js` `TypeScript` `Recharts`
-
-Monte Carlo pricer for **European, Asian and barrier** options under GBM, with variance reduction and Greeks, behind a trading-desk-style dashboard.
-
-| | |
-|---|---|
-| Variance reduction | antithetic + control variates |
-| Sanity check | compared with Black-Scholes |
-| Greeks | Delta, Vega (finite difference) |
-| Interface | live path + risk visualisation |
-
-**[→ Dashboard repo](https://github.com/ahmadmdsajid129/exotic-options-client)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🏔️ HimaVogue (client work)
-`Next.js 14` `Node.js` `MongoDB` `Redis` `Docker` `eSewa`
-
-A multi-vendor e-commerce platform I built as a freelance developer (Aug 2025 to Jul 2026): JWT + role-based auth, split-order logistics, vendor KYC, **commission and escrow ledger**, a bespoke-tailoring pipeline, and a Redis cache-aside layer.
-
-| | |
-|---|---|
-| Roles | customer, seller, admin |
-| Money flow | order, escrow, settlement, payout |
-| Caching | Redis, graceful DB fallback |
-| Delivery | 3-stage Docker build |
-
-</td>
+<td width="50%"><a href="https://github.com/ahmadmdsajid129/exotic-options-client"><img src="card-options.svg" width="100%" alt="Exotic Options Pricer" /></a></td>
+<td width="50%"><img src="card-himavogue.svg" width="100%" alt="HimaVogue Marketplace (client work)" /></td>
 </tr>
 </table>
 
+<sub>Click a card to open the repository. HimaVogue is client work, so its code is private.</sub>
+</div>
+
 <details>
-<summary><b>🔬 Under the hood: fraud engine pipeline</b></summary>
+<summary><b>Under the hood: fraud engine pipeline</b></summary>
 
 ```mermaid
 flowchart LR
@@ -156,11 +99,12 @@ Design choices I would defend in an interview:
 - **Zero temporal leakage.** Chronological splits, and Redis state is committed only *after* the current transaction is decided.
 - **Cost-aware threshold.** Not 0.5. The cutoff minimises `FN x (amount + chargeback) + FP x insult cost`.
 - **Explainability on every decision**, with PSI and KS drift monitoring across all 30 features.
+- **Honest scope.** Synthetic data, single-threaded benchmark of 15 TPS, and the repo says so.
 
 </details>
 
 <details>
-<summary><b>🔬 Under the hood: what the LOB backtest taught me</b></summary>
+<summary><b>Under the hood: what the LOB backtest taught me</b></summary>
 
 A naive mid-price backtest looked great. Then I added the frictions:
 
@@ -172,9 +116,19 @@ The lesson was the point of the project: a Sharpe ratio means nothing until you 
 
 </details>
 
----
+<details>
+<summary><b>Under the hood: HimaVogue money flow</b></summary>
 
-## ➗ The math I actually use
+- **Split orders:** a mixed cart becomes one parent order (payment) and child orders (same-day and standard), with coupons and shipping pro-rated by subtotal.
+- **Escrow ledger:** vendor earnings (price minus commission) sit in `pendingClearance` until delivery and the return window close, then an admin settles them to the wallet.
+- **Server-side payment verification:** gateway callbacks are never trusted; the backend re-queries the payment status and checks the amount.
+- **Resilience:** Redis cache-aside with a graceful fallback to MongoDB, so a cache outage slows things down instead of taking the site down.
+
+</details>
+
+<img src="divider.svg" width="100%" alt="" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&color=3DDBB0&center=false&vCenter=true&repeat=false&width=820&height=48&lines=The+math+I+actually+use" alt="The math I actually use" />
 
 <table>
 <tr>
@@ -211,13 +165,13 @@ $$f(x)-\mathbb E[f]=\sum_{j=1}^{M}\phi_j(x)$$
 </tr>
 </table>
 
----
+<img src="divider.svg" width="100%" alt="" />
 
-## 🧬 In the lab right now: **Oddly** *(codename, in design)*
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&color=FF6B5E&center=false&vCenter=true&repeat=false&width=820&height=48&lines=In+the+lab%3A+Oddly+%28codename%29" alt="In the lab: Oddly" />
 
 > **Someone out there is oddly like you.**
 
-A daily five-pick game, the same five questions for everyone on Earth, that finds the one stranger who answered most like you. No chat, no profile, a 30-second ritual with a shareable result. I am designing it as a **web-first PWA**, then native.
+A daily five-pick game, the same five questions for everyone on Earth, that finds the one stranger who answered most like you. No chat, no profile, a 30-second ritual with a shareable result. Web-first PWA, then native.
 
 The part I am enjoying most is the maths. Matching on a rare answer should count for more than matching on a coin flip, so each answer is weighted by its information content:
 
@@ -229,37 +183,37 @@ $$\mathbb E[\text{exact twins}]\approx\frac{N}{2^{H}}$$
 
 so the question set has to grow with the crowd, or "your perfect twin" stops meaning anything. *(Status: blueprint and simulations done, build starting. Nothing validated with real users yet, and I say so.)*
 
----
+<img src="divider.svg" width="100%" alt="" />
 
-## 🛠️ Arsenal
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&color=3DDBB0&center=false&vCenter=true&repeat=false&width=820&height=48&lines=Arsenal" alt="Arsenal" />
 
 <div align="center">
 
 **Quant & ML**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,sklearn,pandas,numpy" />
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SHAP-FF6B5E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Monte%20Carlo-6C4CF1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Matplotlib-14123A?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python,cpp,sklearn,pandas,numpy" alt="python, c++, scikit-learn, pandas, numpy" />
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" alt="XGBoost" />
+<img src="https://img.shields.io/badge/SHAP-FF6B5E?style=for-the-badge" alt="SHAP" />
+<img src="https://img.shields.io/badge/Monte%20Carlo-6C4CF1?style=for-the-badge" alt="Monte Carlo" />
+<img src="https://img.shields.io/badge/Matplotlib-14123A?style=for-the-badge" alt="Matplotlib" />
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,redis,kafka,prisma,docker" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,redis,kafka,prisma,docker" alt="backend stack" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" alt="frontend stack" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" alt="tools" />
 
 </div>
 
----
+<img src="divider.svg" width="100%" alt="" />
 
-## 📊 Commits, streaks, and the whole history
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&color=3DDBB0&center=false&vCenter=true&repeat=false&width=820&height=48&lines=Commits%2C+streaks%2C+and+the+whole+history" alt="Commits, streaks, and the whole history" />
 
 <div align="center">
 
@@ -273,21 +227,15 @@ so the question set has to grow with the crowd, or "your perfect twin" stops mea
 
 <br/>
 
-<img src="https://img.shields.io/github/commit-activity/t/ahmadmdsajid129/real-time-payment-fraud-detection?label=fraud%20engine%20commits&color=3DDBB0&labelColor=14123A&style=for-the-badge" alt="fraud%20engine%20commits" />
-<img src="https://img.shields.io/github/commit-activity/t/ahmadmdsajid129/lob-alpha-simulator?label=LOB%20sim%20commits&color=FF6B5E&labelColor=14123A&style=for-the-badge" alt="LOB%20sim%20commits" />
-<img src="https://img.shields.io/github/commit-activity/t/ahmadmdsajid129/exotic-options-client?label=options%20client%20commits&color=6C4CF1&labelColor=14123A&style=for-the-badge" alt="options%20client%20commits" />
-
-<img src="https://img.shields.io/github/languages/top/ahmadmdsajid129/real-time-payment-fraud-detection?label=fraud%20engine&color=6C4CF1&labelColor=14123A&style=for-the-badge" alt="fraud%20engine" />
-<img src="https://img.shields.io/github/languages/top/ahmadmdsajid129/lob-alpha-simulator?label=LOB%20sim&color=6C4CF1&labelColor=14123A&style=for-the-badge" alt="LOB%20sim" />
-<img src="https://img.shields.io/github/languages/top/ahmadmdsajid129/exotic-options-client?label=options%20client&color=6C4CF1&labelColor=14123A&style=for-the-badge" alt="options%20client" />
-
-<img src="https://img.shields.io/github/followers/ahmadmdsajid129?style=for-the-badge&color=3DDBB0&labelColor=14123A" alt="followers" />
+<img src="https://img.shields.io/github/commit-activity/t/ahmadmdsajid129/real-time-payment-fraud-detection?label=fraud%20engine%20commits&color=3DDBB0&labelColor=14123A&style=for-the-badge" alt="fraud engine commits" />
+<img src="https://img.shields.io/github/commit-activity/t/ahmadmdsajid129/lob-alpha-simulator?label=LOB%20sim%20commits&color=FF6B5E&labelColor=14123A&style=for-the-badge" alt="LOB sim commits" />
+<img src="https://img.shields.io/github/commit-activity/t/ahmadmdsajid129/exotic-options-client?label=options%20client%20commits&color=6C4CF1&labelColor=14123A&style=for-the-badge" alt="options client commits" />
 
 </div>
 
----
+<img src="divider.svg" width="100%" alt="" />
 
-## 🧭 How I work
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&color=3DDBB0&center=false&vCenter=true&repeat=false&width=820&height=48&lines=How+I+work" alt="How I work" />
 
 ```mermaid
 flowchart LR
@@ -304,20 +252,24 @@ flowchart LR
 - **Then build the interface**, because a model nobody can use is a notebook.
 
 <details>
-<summary><b>🏋️ Off the keyboard</b></summary>
+<summary><b>Off the keyboard</b></summary>
 <br/>
 Deadlifts and bench press, working on the bulk. Progressive overload and gradient descent turn out to be the same idea.
 </details>
 
----
+<img src="divider.svg" width="100%" alt="" />
 
-## 📫 Let's talk
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&color=3DDBB0&center=false&vCenter=true&repeat=false&width=820&height=48&lines=Let%27s+talk" alt="Let's talk" />
 
 I am looking for an **AI/ML internship** or a **quantitative research** role. If you have a problem with noisy data and a hard latency or risk constraint, send it over.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-sajid-ahmad-350a9b32a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahmadmdsajid129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<a href="https://mail.google.com/mail/?view=cm&fl=1&to=ahmadmdsajid129@gmail.com&su=Hello%20Sajid"><img src="https://img.shields.io/badge/Email%20me-ahmadmdsajid129%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="https://www.linkedin.com/in/md-sajid-ahmad-350a9b32a/"><img src="https://img.shields.io/badge/LinkedIn-Md%20Sajid%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<sub>The email button opens Gmail in your browser. Or copy the address: ahmadmdsajid129@gmail.com</sub>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer" width="100%" alt="" />
