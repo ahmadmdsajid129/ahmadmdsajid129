@@ -115,7 +115,7 @@ def main():
     paths = simulate_paths(rng)
     mc, se = mc_call_antithetic(rng, N_PRICE)
     svg = render(paths, mc, se, bs_call(S0, K, R, SIGMA, T), today.isoformat())
-    out = pathlib.Path(__file__).resolve().parent.parent / "assets" / "gbm.svg"
+    out = pathlib.Path(__file__).resolve().parent.parent / "gbm.svg"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(svg, encoding="utf-8")
     print(f"wrote {out}  MC={mc:.4f}±{1.96*se:.4f}  BS={bs_call(S0,K,R,SIGMA,T):.4f}")
