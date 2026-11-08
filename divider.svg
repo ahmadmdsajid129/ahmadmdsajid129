@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 14" width="100%" height="14" role="img" aria-label="divider">
+<defs>
+<linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#6C4CF1" stop-opacity="0"/><stop offset=".25" stop-color="#6C4CF1"/><stop offset=".5" stop-color="#3DDBB0"/><stop offset=".75" stop-color="#FF6B5E"/><stop offset="1" stop-color="#FF6B5E" stop-opacity="0"/></linearGradient>
+<linearGradient id="p" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+.pulse{animation:pulse 6s linear infinite}
+@keyframes pulse{0%{transform:translateX(-160px)}100%{transform:translateX(960px)}}
+.dia{animation:dia 3s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center}
+@keyframes dia{from{transform:scale(.8);opacity:.6}to{transform:scale(1.15);opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0" y="6" width="960" height="2" fill="url(#l)" opacity=".85"/>
+<rect class="pulse" x="0" y="5" width="140" height="4" rx="2" fill="url(#p)" opacity=".9"/>
+<path class="dia" d="M480 1 L487 7 L480 13 L473 7 Z" fill="#3DDBB0"/>
+</svg>

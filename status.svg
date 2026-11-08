@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 36" width="420" height="36" role="img" aria-label="Open to work: AI/ML internship, quant research">
+<style>
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2s ease-out infinite}
+@keyframes ping{0%{transform:scale(1);opacity:.9}100%{transform:scale(3);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="419" height="35" rx="17.5" fill="#14123A" stroke="#3DDBB0" stroke-opacity=".6"/>
+<circle class="ping" cx="22" cy="18" r="5" fill="none" stroke="#3DDBB0" stroke-width="2"/>
+<circle cx="22" cy="18" r="5" fill="#3DDBB0"/>
+<text x="40" y="23" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#EEEAFE">Open to work  ·  AI/ML internship  ·  Quant research</text>
+</svg>

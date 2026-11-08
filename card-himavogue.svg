@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 252" width="480" height="252" role="img" aria-label="HimaVogue marketplace client project card">
+<title>HimaVogue marketplace client project card</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14123A"/><stop offset="1" stop-color="#231A5C"/></linearGradient>
+<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#3DDBB0" stop-opacity="0"/><stop offset=".5" stop-color="#3DDBB0"/><stop offset="1" stop-color="#6C4CF1" stop-opacity="0"/></linearGradient>
+<radialGradient id="gl" cx="85%" cy="25%" r="60%"><stop offset="0" stop-color="#6C4CF1" stop-opacity=".5"/><stop offset="1" stop-color="#6C4CF1" stop-opacity="0"/></radialGradient>
+<clipPath id="cl"><rect width="480" height="252" rx="16"/></clipPath>
+</defs>
+<style>
+.sweep{animation:sweep 5s linear infinite}
+@keyframes sweep{0%{transform:translateX(-170px)}100%{transform:translateX(520px)}}
+.glow{animation:glow 4s ease-in-out infinite alternate}
+@keyframes glow{from{opacity:.35}to{opacity:.8}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.coin{animation:coin 5s ease-in-out infinite}
+@keyframes coin{0%{transform:translateX(0);opacity:1}30%{transform:translateX(60px)}55%{transform:translateX(60px)}90%{transform:translateX(120px);opacity:1}100%{transform:translateX(120px);opacity:0}}
+.node{animation:node 5s ease-in-out infinite}
+.n2{animation-delay:1.2s}.n3{animation-delay:2.6s}
+@keyframes node{0%,100%{stroke-opacity:.5}20%{stroke-opacity:1}40%{stroke-opacity:.5}}</style>
+<rect width="480" height="252" rx="16" fill="url(#bg)"/>
+<rect width="480" height="252" rx="16" fill="url(#gl)" class="glow"/>
+<g clip-path="url(#cl)"><rect class="sweep" x="0" y="0" width="170" height="3" fill="url(#sw)"/></g>
+<rect x=".5" y=".5" width="479" height="251" rx="16" fill="none" stroke="#6C4CF1" stroke-opacity=".55"/>
+<text x="24" y="28" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="10" letter-spacing="1.6" fill="#FF6B5E">FULL-STACK  ·  CLIENT WORK</text>
+<text x="24" y="52" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">HimaVogue Marketplace</text>
+<text x="24" y="72" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#B9B4E8">Multi-vendor commerce with split orders, escrow,</text><text x="24" y="89" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#B9B4E8">payouts and a bespoke tailoring pipeline.</text>
+<text x="24" y="148" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="21" font-weight="700" fill="#3DDBB0">3</text><text x="24" y="164" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#B9B4E8">user roles</text><text x="116" y="148" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="21" font-weight="700" fill="#3DDBB0">10%</text><text x="116" y="164" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#B9B4E8">commission</text><text x="208" y="148" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="21" font-weight="700" fill="#3DDBB0">12 mo</text><text x="208" y="164" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10" fill="#B9B4E8">freelance</text>
+<g transform="translate(300,98)">
+<line x1="18" y1="40" x2="138" y2="40" stroke="#EEEAFE" stroke-opacity=".25" stroke-width="2"/>
+<circle class="node n1" cx="18" cy="40" r="11" fill="#14123A" stroke="#3DDBB0" stroke-width="2"/>
+<circle class="node n2" cx="78" cy="40" r="11" fill="#14123A" stroke="#FFC857" stroke-width="2"/>
+<circle class="node n3" cx="138" cy="40" r="11" fill="#14123A" stroke="#6C4CF1" stroke-width="2"/>
+<text x="18" y="44" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="11" font-weight="700" fill="#FFFFFF">1</text>
+<text x="78" y="44" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="11" font-weight="700" fill="#FFFFFF">2</text>
+<text x="138" y="44" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="11" font-weight="700" fill="#FFFFFF">3</text>
+<circle class="coin" cx="18" cy="40" r="4.5" fill="#FF6B5E"/>
+<text x="18" y="68" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#EEEAFE">Order</text>
+<text x="78" y="68" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#EEEAFE">Escrow</text>
+<text x="138" y="68" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="9.5" fill="#EEEAFE">Payout</text>
+<text x="78" y="84" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="8" fill="#B9B4E8">held until returns close</text></g>
+<rect x="24.0" y="208" width="82.0" height="22" rx="11" fill="#6C4CF1" fill-opacity="0.22" stroke="#6C4CF1" stroke-opacity="0.55"/><text x="65.0" y="223" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="10.5" fill="#EEEAFE">Next.js 14</text><rect x="114.0" y="208" width="62.8" height="22" rx="11" fill="#6C4CF1" fill-opacity="0.22" stroke="#6C4CF1" stroke-opacity="0.55"/><text x="145.4" y="223" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="10.5" fill="#EEEAFE">Node.js</text><rect x="184.8" y="208" width="62.8" height="22" rx="11" fill="#6C4CF1" fill-opacity="0.22" stroke="#6C4CF1" stroke-opacity="0.55"/><text x="216.2" y="223" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="10.5" fill="#EEEAFE">MongoDB</text><rect x="255.6" y="208" width="50.0" height="22" rx="11" fill="#6C4CF1" fill-opacity="0.22" stroke="#6C4CF1" stroke-opacity="0.55"/><text x="280.6" y="223" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="10.5" fill="#EEEAFE">Redis</text><rect x="313.6" y="208" width="56.4" height="22" rx="11" fill="#6C4CF1" fill-opacity="0.22" stroke="#6C4CF1" stroke-opacity="0.55"/><text x="341.8" y="223" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace" font-size="10.5" fill="#EEEAFE">Docker</text>
+</svg>
