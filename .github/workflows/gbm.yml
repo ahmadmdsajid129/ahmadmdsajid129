@@ -16,11 +16,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scripts/gbm_banner.py
+      - run: python gbm_banner.py
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/gbm.svg
+          git add gbm.svg
           git diff --staged --quiet || git commit -m "chore: today's simulated market"
           git push
